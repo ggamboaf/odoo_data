@@ -1,0 +1,562 @@
+{
+    "datos":[
+
+        {
+            "codigo":"1",
+            "name":"Unidad",
+            "simbolo":"Unid"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Kilogramo",
+            "simbolo":"kg"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Onzas",
+            "simbolo":"Oz"
+        },
+
+        {
+            "codigo":"5",
+            "name":"litro",
+            "simbolo":"L"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Galón",
+            "simbolo":"Gal"
+        },
+
+        {
+            "codigo":"10",
+            "name":"Metro",
+            "simbolo":"m"
+        },
+
+        {
+            "codigo":"12",
+            "name":"minuto",
+            "simbolo":"min"
+        },
+
+        {
+            "codigo":"13",
+            "name":"hora",
+            "simbolo":"h"
+        },
+
+        {
+            "codigo":"14",
+            "name":"dia",
+            "simbolo":"d"
+        },
+
+        {
+            "codigo":"19",
+            "name":"mililitro",
+            "simbolo":"mL"
+        },
+
+        {
+            "codigo":"20",
+            "name":"Gramo",
+            "simbolo":"g"
+        },
+
+        {
+            "codigo":"23",
+            "name":"tonelada",
+            "simbolo":"t"
+        },
+
+        {
+            "codigo":"24",
+            "name":"Servicios Profesionales",
+            "simbolo":"Sp"
+        },
+
+        {
+            "codigo":"25",
+            "name":"Segundo",
+            "simbolo":"s"
+        },
+
+        {
+            "codigo":"26",
+            "name":"Ampere",
+            "simbolo":"A"
+        },
+
+        {
+            "codigo":"27",
+            "name":"Kelvin",
+            "simbolo":"K"
+        },
+
+        {
+            "codigo":"28",
+            "name":"Mol",
+            "simbolo":"mol"
+        },
+
+        {
+            "codigo":"29",
+            "name":"Candela",
+            "simbolo":"cd"
+        },
+
+        {
+            "codigo":"30",
+            "name":"metro cuadrado",
+            "simbolo":"m²"
+        },
+
+        {
+            "codigo":"31",
+            "name":"metro cúbico",
+            "simbolo":"m³"
+        },
+
+        {
+            "codigo":"32",
+            "name":"metro por segundo",
+            "simbolo":"m/s"
+        },
+
+        {
+            "codigo":"33",
+            "name":"metro por segundo cuadrado",
+            "simbolo":"m/s²"
+        },
+
+        {
+            "codigo":"34",
+            "name":"1 por metro",
+            "simbolo":"1/m"
+        },
+
+        {
+            "codigo":"35",
+            "name":"kilogramo por metro cúbico",
+            "simbolo":"kg/m³"
+        },
+
+        {
+            "codigo":"36",
+            "name":"ampere por metro cuadrado",
+            "simbolo":"A/m²"
+        },
+
+        {
+            "codigo":"37",
+            "name":"ampere por metro",
+            "simbolo":"A/m"
+        },
+
+        {
+            "codigo":"38",
+            "name":"mol por metro cúbico",
+            "simbolo":"mol/m³"
+        },
+
+        {
+            "codigo":"39",
+            "name":"candela por metro cuadrado",
+            "simbolo":"cd/m²"
+        },
+
+        {
+            "codigo":"40",
+            "name":"uno (indice de refracción)",
+            "simbolo":"1"
+        },
+
+        {
+            "codigo":"41",
+            "name":"radián",
+            "simbolo":"rad"
+        },
+
+        {
+            "codigo":"42",
+            "name":"estereorradián",
+            "simbolo":"sr"
+        },
+
+        {
+            "codigo":"43",
+            "name":"hertz",
+            "simbolo":"Hz"
+        },
+
+        {
+            "codigo":"44",
+            "name":"newton",
+            "simbolo":"N"
+        },
+
+        {
+            "codigo":"45",
+            "name":"pascal",
+            "simbolo":"Pa"
+        },
+
+        {
+            "codigo":"46",
+            "name":"Joule",
+            "simbolo":"J"
+        },
+
+        {
+            "codigo":"47",
+            "name":"Watt",
+            "simbolo":"W"
+        },
+
+        {
+            "codigo":"48",
+            "name":"coulomb",
+            "simbolo":"C"
+        },
+
+        {
+            "codigo":"49",
+            "name":"volt",
+            "simbolo":"V"
+        },
+
+        {
+            "codigo":"50",
+            "name":"farad",
+            "simbolo":"F"
+        },
+
+        {
+            "codigo":"51",
+            "name":"ohm",
+            "simbolo":"?"
+        },
+
+        {
+            "codigo":"52",
+            "name":"siemens",
+            "simbolo":"S"
+        },
+
+        {
+            "codigo":"53",
+            "name":"weber",
+            "simbolo":"Wb"
+        },
+
+        {
+            "codigo":"54",
+            "name":"tesla",
+            "simbolo":"T"
+        },
+
+        {
+            "codigo":"55",
+            "name":"henry",
+            "simbolo":"H"
+        },
+
+        {
+            "codigo":"56",
+            "name":"grado Celsius",
+            "simbolo":"°C"
+        },
+
+        {
+            "codigo":"57",
+            "name":"lumen",
+            "simbolo":"lm"
+        },
+
+        {
+            "codigo":"58",
+            "name":"lux",
+            "simbolo":"lx"
+        },
+
+        {
+            "codigo":"59",
+            "name":"Becquerel",
+            "simbolo":"Bq"
+        },
+
+        {
+            "codigo":"60",
+            "name":"gray",
+            "simbolo":"Gy"
+        },
+
+        {
+            "codigo":"61",
+            "name":"sievert",
+            "simbolo":"Sv"
+        },
+
+        {
+            "codigo":"62",
+            "name":"katal",
+            "simbolo":"kat"
+        },
+
+        {
+            "codigo":"63",
+            "name":"pascal segundo",
+            "simbolo":"Pa·s"
+        },
+
+        {
+            "codigo":"64",
+            "name":"newton metro",
+            "simbolo":"N·m"
+        },
+
+        {
+            "codigo":"65",
+            "name":"newton por metro",
+            "simbolo":"rad/s"
+        },
+
+        {
+            "codigo":"66",
+            "name":"radián por segundo",
+            "simbolo":"rad/s"
+        },
+
+        {
+            "codigo":"67",
+            "name":"radián por segundo cuadrado",
+            "simbolo":"rad/s²"
+        },
+
+        {
+            "codigo":"68",
+            "name":"joule por kelvin",
+            "simbolo":"J/K"
+        },
+
+        {
+            "codigo":"69",
+            "name":"joule por kilogramo kelvin",
+            "simbolo":"J/(kg·K)"
+        },
+
+        {
+            "codigo":"70",
+            "name":"joule por kilogramo",
+            "simbolo":"J/kg"
+        },
+
+        {
+            "codigo":"71",
+            "name":"watt por metro kevin",
+            "simbolo":"W/(m·K)"
+        },
+
+        {
+            "codigo":"72",
+            "name":"joule por metro cúbico",
+            "simbolo":"J/m³"
+        },
+
+        {
+            "codigo":"73",
+            "name":"volt por metro",
+            "simbolo":"V/m"
+        },
+
+        {
+            "codigo":"74",
+            "name":"coulomb por metro cúbico",
+            "simbolo":"C/m³"
+        },
+
+        {
+            "codigo":"75",
+            "name":"coulomb por metro cuadrado",
+            "simbolo":"C/m²"
+        },
+
+        {
+            "codigo":"76",
+            "name":"farad por metro",
+            "simbolo":"F/m"
+        },
+
+        {
+            "codigo":"77",
+            "name":"henry por metro",
+            "simbolo":"H/m"
+        },
+
+        {
+            "codigo":"78",
+            "name":"joule por mol",
+            "simbolo":"J/mol"
+        },
+
+        {
+            "codigo":"79",
+            "name":"joule por mol kelvin",
+            "simbolo":"J/(mol·K)"
+        },
+
+        {
+            "codigo":"80",
+            "name":"coulomb por kilogramo",
+            "simbolo":"C/kg"
+        },
+
+        {
+            "codigo":"81",
+            "name":"gray por segundo",
+            "simbolo":"Gy/s"
+        },
+
+        {
+            "codigo":"82",
+            "name":"watt por estereorradián",
+            "simbolo":"W/sr"
+        },
+
+        {
+            "codigo":"83",
+            "name":"watt por metro cuadrado estereorradián",
+            "simbolo":"W/(m²·sr)"
+        },
+
+        {
+            "codigo":"84",
+            "name":"katal por metro cúbico",
+            "simbolo":"kat/m³"
+        },
+
+        {
+            "codigo":"85",
+            "name":"grado",
+            "simbolo":"º"
+        },
+
+        {
+            "codigo":"86",
+            "name":"neper",
+            "simbolo":"Np"
+        },
+
+        {
+            "codigo":"87",
+            "name":"bel",
+            "simbolo":"bel"
+        },
+
+        {
+            "codigo":"88",
+            "name":"electronvolt",
+            "simbolo":"eV"
+        },
+
+        {
+            "codigo":"89",
+            "name":"unidad de masa atómica unificada",
+            "simbolo":"u"
+        },
+
+        {
+            "codigo":"90",
+            "name":"unidad astronómica",
+            "simbolo":"ua"
+        },
+
+        {
+            "codigo":"91",
+            "name":"Kilometro",
+            "simbolo":"Km"
+        },
+
+        {
+            "codigo":"92",
+            "name":"pulgada",
+            "simbolo":"ln"
+        },
+
+        {
+            "codigo":"93",
+            "name":"centimetro",
+            "simbolo":"cm"
+        },
+
+        {
+            "codigo":"94",
+            "name":"Milimetro",
+            "simbolo":"mm"
+        },
+
+        {
+            "codigo":"95",
+            "name":"Otros",
+            "simbolo":"Otros"
+        },
+
+        {
+            "codigo":"97",
+            "name":"Alquiler de uso comercial",
+            "simbolo":"Alc"
+        },
+
+        {
+            "codigo":"98",
+            "name":"Comisiones",
+            "simbolo":"Cm"
+        },
+
+        {
+            "codigo":"99",
+            "name":"Intereses",
+            "simbolo":"I"
+        },
+
+        {
+            "codigo":"100",
+            "name":"Otro tipo de servicio",
+            "simbolo":"Os"
+        },
+
+        {
+            "codigo":"101",
+            "name":"Servicios personales",
+            "simbolo":"Spe"
+        },
+
+        {
+            "codigo":"102",
+            "name":"Servicios técnicos",
+            "simbolo":"St"
+        },
+
+        {
+            "codigo":"103",
+            "name":"kilovatios",
+            "simbolo":"Kw"
+        },
+
+        {
+            "codigo":"104",
+            "name":"watt por metro cuadrado",
+            "simbolo":"W/m²"
+        },
+
+        {
+            "codigo":"105",
+            "name":"Alquiler de uso habitacional",
+            "simbolo":"Al"
+        }
+    ]
+}

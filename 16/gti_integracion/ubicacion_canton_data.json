@@ -1,0 +1,511 @@
+{
+    "datos":[
+        {
+            "codigo":"1",
+            "name":"San José",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Escazú",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Desamparados",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Puriscal",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Tarrazú",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Aserrí",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Mora",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"8",
+            "name":"Goicoechea",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"9",
+            "name":"Santa Ana",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"10",
+            "name":"Alajuelita",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"11",
+            "name":"Vázquez De Coronado",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"12",
+            "name":"Acosta",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"13",
+            "name":"Tibás",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"14",
+            "name":"Moravia",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"15",
+            "name":"Montes De Oca",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"16",
+            "name":"Turrubares",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"17",
+            "name":"Dota",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"18",
+            "name":"Curridabat",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"19",
+            "name":"Pérez Zeledón",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"20",
+            "name":"León Cortés Castro",
+            "provincia_id":"San José"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Alajuela",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Ramón",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Grecia",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Mateo",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Atenas",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Naranjo",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Palmares",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"8",
+            "name":"Poás",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"9",
+            "name":"Orotina",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"10",
+            "name":"San Carlos",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"11",
+            "name":"Zarcero",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"12",
+            "name":"Sarchí",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"13",
+            "name":"Upala",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"14",
+            "name":"Los Chiles",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"15",
+            "name":"Guatuso",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"16",
+            "name":"Río Cuarto",
+            "provincia_id":"Alajuela"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Cartago",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Paraíso",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"3",
+            "name":"La Unión",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Jiménez",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Turrialba",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Alvarado",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Oreamuno",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"8",
+            "name":"El Guarco",
+            "provincia_id":"Cartago"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Heredia",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Barva",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Santo Domingo",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Santa Bárbara",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Rafael",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Isidro",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Belén",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"8",
+            "name":"Flores",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"9",
+            "name":"San Pablo",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"10",
+            "name":"Sarapiquí",
+            "provincia_id":"Heredia"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Liberia",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Nicoya",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Santa Cruz",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Bagaces",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Carrillo",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Cañas",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Abangares",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"8",
+            "name":"Tilarán",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"9",
+            "name":"Nandayure",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"10",
+            "name":"La Cruz",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"11",
+            "name":"Hojancha",
+            "provincia_id":"Guanacaste"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Puntarenas",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Esparza",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Buenos Aires",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Montes De Oro",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Osa",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Quepos",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"7",
+            "name":"Golfito",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"8",
+            "name":"Coto Brus",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"9",
+            "name":"Parrita",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"10",
+            "name":"Corredores",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"11",
+            "name":"Garabito",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"12",
+            "name":"Monte Verde",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"13",
+            "name":"Puerto Jimenez",
+            "provincia_id":"Puntarenas"
+        },
+
+        {
+            "codigo":"1",
+            "name":"Limón",
+            "provincia_id":"Limón"
+        },
+
+        {
+            "codigo":"2",
+            "name":"Pococí",
+            "provincia_id":"Limón"
+        },
+
+        {
+            "codigo":"3",
+            "name":"Siquirres",
+            "provincia_id":"Limón"
+        },
+
+        {
+            "codigo":"4",
+            "name":"Talamanca",
+            "provincia_id":"Limón"
+        },
+
+        {
+            "codigo":"5",
+            "name":"Matina",
+            "provincia_id":"Limón"
+        },
+
+        {
+            "codigo":"6",
+            "name":"Guácimo",
+            "provincia_id":"Limón"
+        }
+
+
+
+
+    ]
+}
