@@ -1,0 +1,2959 @@
+{
+    "datos":[
+        {
+            "codigo":"1",
+            "name":"Carmen",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Merced",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Hospital",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Catedral",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Zapote",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Francisco De Dos Ríos",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Uruca",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Mata Redonda",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Pavas",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Hatillo",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"11",
+            "name":"San Sebastián",
+"canton_id": "San José",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Escazú",
+"canton_id": "Escazú",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Antonio",
+"canton_id": "Escazú",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Rafael",
+"canton_id": "Escazú",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Desamparados",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Miguel",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan De Dios",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Rafael Arriba",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Antonio",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Frailes",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Patarrá",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"8",
+            "name":"San Cristóbal",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Rosario",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Damas",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"11",
+            "name":"San Rafael Abajo",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Gravilias",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"13",
+            "name":"Los Guido",
+"canton_id": "Desamparados",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santiago",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Mercedes Sur",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Barbacoas",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Grifo Alto",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Rafael",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Candelarita",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Desamparaditos",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"8",
+            "name":"San Antonio",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Chires",
+"canton_id": "Puriscal",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Marcos",
+"canton_id": "Tarrazú",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Lorenzo",
+"canton_id": "Tarrazú",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Carlos",
+"canton_id": "Tarrazú",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Aserrí",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Tarbaca",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Vuelta De Jorco",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Gabriel",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Legua",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Monterrey",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Salitrillos",
+"canton_id": "Aserrí",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Colón",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Guayabo",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Tabarcia",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Piedras Negras",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Picagres",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Jaris",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Quitirrisí",
+"canton_id": "Mora",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Guadalupe",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Francisco",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Calle Blancos",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Mata De Plátano",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Ipís",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Rancho Redondo",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Purral",
+"canton_id": "Goicoechea",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santa Ana",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Salitral",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Pozos",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Uruca",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Piedades",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Brasil",
+"canton_id": "Santa Ana",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Alajuelita",
+"canton_id": "Alajuelita",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Josecito",
+"canton_id": "Alajuelita",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Antonio",
+"canton_id": "Alajuelita",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Concepción",
+"canton_id": "Alajuelita",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Felipe",
+"canton_id": "Alajuelita",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Isidro",
+"canton_id": "Vázquez De Coronado",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Rafael",
+"canton_id": "Vázquez De Coronado",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Dulce Nombre De Jesús",
+"canton_id": "Vázquez De Coronado",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Patalillo",
+"canton_id": "Vázquez De Coronado",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Cascajal",
+"canton_id": "Vázquez De Coronado",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Ignacio de Acosta",
+"canton_id": "Acosta",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Guaitil",
+"canton_id": "Acosta",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Palmichal",
+"canton_id": "Acosta",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Cangrejal",
+"canton_id": "Acosta",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Sabanillas",
+"canton_id": "Acosta",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Juan",
+"canton_id": "Tibás",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Cinco Esquinas",
+"canton_id": "Tibás",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Anselmo Llorente",
+"canton_id": "Tibás",
+        },
+
+        {
+            "codigo":"4",
+            "name":"León Xiii",
+"canton_id": "Tibás",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Colima",
+"canton_id": "Tibás",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Vicente",
+"canton_id": "Moravia",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Jerónimo",
+"canton_id": "Moravia",
+        },
+
+        {
+            "codigo":"3",
+            "name":"La Trinidad",
+"canton_id": "Moravia",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Pedro",
+"canton_id": "Montes De Oca",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Sabanilla",
+"canton_id": "Montes De Oca",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Mercedes",
+"canton_id": "Montes De Oca",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Rafael",
+"canton_id": "Montes De Oca",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Pablo",
+"canton_id": "Turrubares",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Pedro",
+"canton_id": "Turrubares",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan De Mata",
+"canton_id": "Turrubares",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Luis",
+"canton_id": "Turrubares",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Carara",
+"canton_id": "Turrubares",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santa María",
+"canton_id": "Dota",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Jardín",
+"canton_id": "Dota",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Copey",
+"canton_id": "Dota",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Curridabat",
+"canton_id": "Curridabat",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Granadilla",
+"canton_id": "Curridabat",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Sánchez",
+"canton_id": "Curridabat",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Tirrases",
+"canton_id": "Curridabat",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Isidro De El General",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"2",
+            "name":"El General",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Daniel Flores",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Rivas",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Pedro",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Platanares",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Pejibaye",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Cajón",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Barú",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Río Nuevo",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Páramo",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"12",
+            "name":"La Amistad",
+"canton_id": "Pérez Zeledón",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Pablo",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Andrés",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Llano Bonito",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Isidro",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santa Cruz",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Antonio",
+"canton_id": "León Cortés Castro",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Alajuela",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San José",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Carrizal",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Antonio",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Guácima",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Isidro",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Sabanilla",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"8",
+            "name":"San Rafael",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Río Segundo",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Desamparados",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Turrúcares",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Tambor",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"13",
+            "name":"Garita",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"14",
+            "name":"Sarapiquí",
+"canton_id": "Alajuela",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Ramón",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Santiago",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Piedades Norte",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Piedades Sur",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Rafael",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"7",
+            "name":"San Isidro",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Ángeles",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Alfaro",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Volio",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Concepción",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Zapotal",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"13",
+            "name":"Peñas Blancas",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"14",
+            "name":"San Lorenzo",
+"canton_id": "San Ramón",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Grecia",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Isidro",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San José",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Roque",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Tacares",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Puente De Piedra",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Bolívar",
+"canton_id": "Grecia",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Mateo",
+"canton_id": "San Mateo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Desmonte",
+"canton_id": "San Mateo",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Jesús María",
+"canton_id": "San Mateo",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Labrador",
+"canton_id": "San Mateo",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Atenas",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Jesús",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Mercedes",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Isidro",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Concepcion",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San José",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Santa Eulalia",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Escobal",
+"canton_id": "Atenas",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Naranjo",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Miguel",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San José",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Cirrí Sur",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Jerónimo",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San Juan",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"7",
+            "name":"El Rosario",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Palmitos",
+"canton_id": "Naranjo",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Palmares",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Zaragoza",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Buenos Aires",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Santiago",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Candelaria",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Esquipulas",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"7",
+            "name":"La Granja",
+"canton_id": "Palmares",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Pedro",
+"canton_id": "Poás",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Juan",
+"canton_id": "Poás",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Rafael",
+"canton_id": "Poás",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Carrillos",
+"canton_id": "Poás",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Sabana Redonda",
+"canton_id": "Poás",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Orotina",
+"canton_id": "Orotina",
+        },
+
+        {
+            "codigo":"2",
+            "name":"El Mastate",
+"canton_id": "Orotina",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Hacienda Vieja",
+"canton_id": "Orotina",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Coyolar",
+"canton_id": "Orotina",
+        },
+
+        {
+            "codigo":"5",
+            "name":"La Ceiba",
+"canton_id": "Orotina",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Quesada",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Florencia",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Buenavista",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Aguas Zarcas",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Venecia",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Pital",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"7",
+            "name":"La Fortuna",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"8",
+            "name":"La Tigra",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"9",
+            "name":"La Palmera",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Venado",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Cutris",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Monterrey",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"13",
+            "name":"Pocosol",
+"canton_id": "San Carlos",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Zarcero",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Laguna",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Tapezco",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Guadalupe",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Palmira",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Zapote",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Brisas",
+"canton_id": "Zarcero",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Sarchí Norte",
+"canton_id": "Sarchí",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Sarchí Sur",
+"canton_id": "Sarchí",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Toro Amarillo",
+"canton_id": "Sarchí",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Pedro",
+"canton_id": "Sarchí",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Rodríguez",
+"canton_id": "Sarchí",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Upala",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Aguas Claras",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San José O Pizote",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Bijagua",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Delicias",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Dos Ríos",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Yolillal",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Canalete",
+"canton_id": "Upala",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Los Chiles",
+"canton_id": "Los Chiles",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Caño Negro",
+"canton_id": "Los Chiles",
+        },
+
+        {
+            "codigo":"3",
+            "name":"El Amparo",
+"canton_id": "Los Chiles",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Jorge",
+"canton_id": "Los Chiles",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Rafael",
+"canton_id": "Guatuso",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Buena Vista",
+"canton_id": "Guatuso",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Cote ",
+"canton_id": "Guatuso",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Katira",
+"canton_id": "Guatuso",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Río Cuarto",
+"canton_id": "Río Cuarto",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Santa Rita",
+"canton_id": "Río Cuarto",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Santa Isabel",
+"canton_id": "Río Cuarto",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Oriental",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Occidental ",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Carmen",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Nicolás",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Aguacaliente O San Francisco",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Guadalupe O Arenilla",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Corralillo",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Tierra Blanca",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Dulce Nombre",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Llano Grande",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Quebradilla",
+"canton_id": "Cartago",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Paraíso",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Santiago",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Orosi",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Cachí",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Llanos De Santa Lucia",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Birrisito",
+"canton_id": "Paraíso",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Tres Ríos",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Diego",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Rafael",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Concepción",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Dulce Nombre",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"7",
+            "name":"San Ramón",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Río Azul",
+"canton_id": "La Unión",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Juan Viñas",
+"canton_id": "Jiménez",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Tucurrique",
+"canton_id": "Jiménez",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Pejibaye",
+"canton_id": "Jiménez",
+        },
+
+        {
+            "codigo":"4",
+            "name":"La Victoria",
+"canton_id": "Jiménez",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Turrialba",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Suiza",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Peralta",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Santa Cruz",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santa Teresita",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Pavones",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Tuis",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Tayutic",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Santa Rosa",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Tres Equis",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"11",
+            "name":"La Isabel ",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Chirripó",
+"canton_id": "Turrialba",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Pacayas",
+"canton_id": "Alvarado",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Cervantes",
+"canton_id": "Alvarado",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Capellades",
+"canton_id": "Alvarado",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Rafael",
+"canton_id": "Oreamuno",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Cot",
+"canton_id": "Oreamuno",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Potrero Cerrado",
+"canton_id": "Oreamuno",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Cipreses",
+"canton_id": "Oreamuno",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santa Rosa",
+"canton_id": "Oreamuno",
+        },
+
+        {
+            "codigo":"1",
+            "name":"El Tejar",
+"canton_id": "El Guarco",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Isidro",
+"canton_id": "El Guarco",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Tobosi",
+"canton_id": "El Guarco",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Patio De Agua",
+"canton_id": "El Guarco",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Heredia",
+"canton_id": "Heredia",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Mercedes",
+"canton_id": "Heredia",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Francisco",
+"canton_id": "Heredia",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Ulloa",
+"canton_id": "Heredia",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Vara Blanca",
+"canton_id": "Heredia",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Barva",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Pedro",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Pablo",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Roque",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santa Lucía",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"6",
+            "name":"San José De La Montaña",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Puente Salas",
+"canton_id": "Barva",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santo Domingo",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Vicente",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Miguel",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Paracito",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santo Tomás",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Santa Rosa",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Tures",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Pará",
+"canton_id": "Santo Domingo",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santa Bárbara",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Pedro",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Jesús",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Santo Domingo",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Purabá",
+"canton_id": "Santa Bárbara",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Rafael",
+"canton_id": "San Rafael",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Josecito",
+"canton_id": "San Rafael",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Santiago",
+"canton_id": "San Rafael",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Ángeles",
+"canton_id": "San Rafael",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Concepción",
+"canton_id": "San Rafael",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Isidro",
+"canton_id": "San Isidro",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San José",
+"canton_id": "San Isidro",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Concepción",
+"canton_id": "San Isidro",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Franciso",
+"canton_id": "San Isidro",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Antonio",
+"canton_id": "Belén",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Ribera",
+"canton_id": "Belén",
+        },
+
+        {
+            "codigo":"3",
+            "name":"La Asuncion",
+"canton_id": "Belén",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Joaquín",
+"canton_id": "Flores",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Barrantes",
+"canton_id": "Flores",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Llorente",
+"canton_id": "Flores",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Pablo",
+"canton_id": "San Pablo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Rincon De Sabanilla",
+"canton_id": "San Pablo",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Puerto Viejo",
+"canton_id": "Sarapiquí",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Virgen",
+"canton_id": "Sarapiquí",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Las Horquetas",
+"canton_id": "Sarapiquí",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Llanuras Del Gaspar",
+"canton_id": "Sarapiquí",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Cureña",
+"canton_id": "Sarapiquí",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Liberia",
+"canton_id": "Liberia",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Cañas Dulces",
+"canton_id": "Liberia",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Mayorga",
+"canton_id": "Liberia",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Nacascolo",
+"canton_id": "Liberia",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Curubandé",
+"canton_id": "Liberia",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Nicoya",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Mansión",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Antonio",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Quebrada Honda",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Sámara",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Nosara",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Belén De Nosarita",
+"canton_id": "Nicoya",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Santa Cruz",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Bolsón",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Veintisiete De Abril",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Tempate",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Cartagena",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Cuajiniquil",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Diriá",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Cabo Velas",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Tamarindo",
+"canton_id": "Santa Cruz",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Bagaces",
+"canton_id": "Bagaces",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Fortuna",
+"canton_id": "Bagaces",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Mogote ",
+"canton_id": "Bagaces",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Río Naranjo",
+"canton_id": "Bagaces",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Filadelfia",
+"canton_id": "Carrillo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Palmira",
+"canton_id": "Carrillo",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Sardinal",
+"canton_id": "Carrillo",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Belén",
+"canton_id": "Carrillo",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Cañas",
+"canton_id": "Cañas",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Palmira",
+"canton_id": "Cañas",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Miguel",
+"canton_id": "Cañas",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Bebedero",
+"canton_id": "Cañas",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Porozal",
+"canton_id": "Cañas",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Las Juntas",
+"canton_id": "Abangares",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Sierra",
+"canton_id": "Abangares",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Juan",
+"canton_id": "Abangares",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Colorado",
+"canton_id": "Abangares",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Tilarán",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Quebrada Grande",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Tronadora",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Santa Rosa",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Líbano",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Tierras Morenas",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Arenal",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Cabeceras",
+"canton_id": "Tilarán",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Carmona",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Santa Rita",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Zapotal",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Pablo",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Porvenir ",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Bejuco",
+"canton_id": "Nandayure",
+        },
+
+        {
+            "codigo":"1",
+            "name":"La Cruz",
+"canton_id": "La Cruz",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Santa Cecilia",
+"canton_id": "La Cruz",
+        },
+
+        {
+            "codigo":"3",
+            "name":"La Garita",
+"canton_id": "La Cruz",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Santa Elena",
+"canton_id": "La Cruz",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Hojancha",
+"canton_id": "Hojancha",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Monte Romo",
+"canton_id": "Hojancha",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Puerto Carrillo",
+"canton_id": "Hojancha",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Huacas",
+"canton_id": "Hojancha",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Matambú",
+"canton_id": "Hojancha",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Puntarenas",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Pitahaya",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Chomes",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Lepanto",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Paquera",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Manzanillo",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Guacimal",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Barranca",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"10",
+            "name":"Isla Del Coco",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"11",
+            "name":"Cóbano",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"12",
+            "name":"Chacarita",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"13",
+            "name":"Chira",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"14",
+            "name":"Acapulco",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"15",
+            "name":"El Roble",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"16",
+            "name":"Arancibia",
+"canton_id": "Puntarenas",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Espíritu Santo",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"2",
+            "name":"San Juan Grande",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Macacona",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"4",
+            "name":"San Rafael",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"5",
+            "name":"San Jerónimo",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Caldera",
+"canton_id": "Esparza",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Buenos Aires",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Volcán",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Potrero Grande",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Boruca",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Pilas",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Colinas",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Chánguena",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"8",
+            "name":"Biolley",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"9",
+            "name":"Brunka",
+"canton_id": "Buenos Aires",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Miramar",
+"canton_id": "Montes De Oro",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Unión ",
+"canton_id": "Montes De Oro",
+        },
+
+        {
+            "codigo":"3",
+            "name":"San Isidro",
+"canton_id": "Montes De Oro",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Puerto Cortés",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Palmar",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Sierpe",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Bahía Ballena",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Piedras Blancas",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Bahía Drake",
+"canton_id": "Osa",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Quepos",
+"canton_id": "Quepos",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Savegre ",
+"canton_id": "Quepos",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Naranjito",
+"canton_id": "Quepos",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Golfito",
+"canton_id": "Golfito",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Guaycará",
+"canton_id": "Golfito",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Pavón",
+"canton_id": "Golfito",
+        },
+
+        {
+            "codigo":"1",
+            "name":"San Vito",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Sabalito",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Aguabuena",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Limoncito",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Pittier",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Gutiérrez Braun",
+"canton_id": "Coto Brus",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Parrita",
+"canton_id": "Parrita",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Corredor",
+"canton_id": "Corredores",
+        },
+
+        {
+            "codigo":"2",
+            "name":"La Cuesta",
+"canton_id": "Corredores",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Canoas",
+"canton_id": "Corredores",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Laurel",
+"canton_id": "Corredores",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Jacó",
+"canton_id": "Garabito",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Tárcoles",
+"canton_id": "Garabito",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Lagunillas",
+"canton_id": "Garabito",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Monte Verde",
+"canton_id": "Monte Verde",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Puerto Jimenez",
+"canton_id": "Puerto Jimenez",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Limón",
+"canton_id": "Limón",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Valle La Estrella",
+"canton_id": "Limón",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Río Blanco ",
+"canton_id": "Limón",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Matama",
+"canton_id": "Limón",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Guápiles",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Jiménez",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Rita",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Roxana",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Cariari",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Colorado",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"7",
+            "name":"La Colonia",
+"canton_id": "Pococí",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Siquirres",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Pacuarito",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Florida",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Germania",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"5",
+            "name":"El Cairo",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"6",
+            "name":"Alegría",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"7",
+            "name":"Reventazón",
+"canton_id": "Siquirres",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Bratsi",
+"canton_id": "Talamanca",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Sixaola",
+"canton_id": "Talamanca",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Cahuita",
+"canton_id": "Talamanca",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Telire",
+"canton_id": "Talamanca",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Matina",
+"canton_id": "Matina",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Batán",
+"canton_id": "Matina",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Carrandi",
+"canton_id": "Matina",
+        },
+
+        {
+            "codigo":"1",
+            "name":"Guácimo",
+"canton_id": "Guácimo",
+        },
+
+        {
+            "codigo":"2",
+            "name":"Mercedes",
+"canton_id": "Guácimo",
+        },
+
+        {
+            "codigo":"3",
+            "name":"Pocora",
+"canton_id": "Guácimo",
+        },
+
+        {
+            "codigo":"4",
+            "name":"Río Jiménez",
+"canton_id": "Guácimo",
+        },
+
+        {
+            "codigo":"5",
+            "name":"Duacarí",
+"canton_id": "Guácimo",
+        },
+
+
+
+
+    ]
+}
