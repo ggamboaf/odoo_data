@@ -1,0 +1,632 @@
+{
+  "datos": [
+    {
+      "codigo": 1,
+      "moneda": "CRC"
+    },
+    {
+      "codigo": 2,
+      "moneda": "USD"
+    },
+    {
+      "codigo": 3,
+      "moneda": "EUR"
+    },
+    {
+      "codigo": 4,
+      "moneda": "AFN"
+    },
+    {
+      "codigo": 5,
+      "moneda": "MGA"
+    },
+    {
+      "codigo": 6,
+      "moneda": "THB"
+    },
+    {
+      "codigo": 7,
+      "moneda": "PAB"
+    },
+    {
+      "codigo": 8,
+      "moneda": "ETB"
+    },
+    {
+      "codigo": 9,
+      "moneda": "VEF"
+    },
+    {
+      "codigo": 10,
+      "moneda": "BOB"
+    },
+    {
+      "codigo": 11,
+      "moneda": "GHS"
+    },
+    {
+      "codigo": 12,
+      "moneda": "KES"
+    },
+    {
+      "codigo": 13,
+      "moneda": "SOS"
+    },
+    {
+      "codigo": 14,
+      "moneda": "TZS"
+    },
+    {
+      "codigo": 15,
+      "moneda": "UGX"
+    },
+    {
+      "codigo": 16,
+      "moneda": "NIO"
+    },
+    {
+      "codigo": 17,
+      "moneda": "DKK"
+    },
+    {
+      "codigo": 18,
+      "moneda": "NOK"
+    },
+    {
+      "codigo": 19,
+      "moneda": "SEK"
+    },
+    {
+      "codigo": 20,
+      "moneda": "GMD"
+    },
+    {
+      "codigo": 21,
+      "moneda": "MKD"
+    },
+    {
+      "codigo": 22,
+      "moneda": "RSD"
+    },
+    {
+      "codigo": 23,
+      "moneda": "DZD"
+    },
+    {
+      "codigo": 24,
+      "moneda": "BHD"
+    },
+    {
+      "codigo": 25,
+      "moneda": "IQD"
+    },
+    {
+      "codigo": 26,
+      "moneda": "JOD"
+    },
+    {
+      "codigo": 27,
+      "moneda": "KWD"
+    },
+    {
+      "codigo": 28,
+      "moneda": "LYD"
+    },
+    {
+      "codigo": 29,
+      "moneda": "SDG"
+    },
+    {
+      "codigo": 30,
+      "moneda": "TND"
+    },
+    {
+      "codigo": 31,
+      "moneda": "AED"
+    },
+    {
+      "codigo": 32,
+      "moneda": "MAD"
+    },
+    {
+      "codigo": 33,
+      "moneda": "STD"
+    },
+    {
+      "codigo": 34,
+      "moneda": "AUD"
+    },
+    {
+      "codigo": 35,
+      "moneda": "BSD"
+    },
+    {
+      "codigo": 36,
+      "moneda": "BMD"
+    },
+    {
+      "codigo": 37,
+      "moneda": "KYD"
+    },
+    {
+      "codigo": 38,
+      "moneda": "CAD"
+    },
+    {
+      "codigo": 39,
+      "moneda": "BBD"
+    },
+    {
+      "codigo": 40,
+      "moneda": "BZD"
+    },
+    {
+      "codigo": 41,
+      "moneda": "BND"
+    },
+    {
+      "codigo": 42,
+      "moneda": "HKD"
+    },
+    {
+      "codigo": 43,
+      "moneda": "SBD"
+    },
+    {
+      "codigo": 44,
+      "moneda": "SGD"
+    },
+    {
+      "codigo": 45,
+      "moneda": "TTD"
+    },
+    {
+      "codigo": 46,
+      "moneda": "XCD"
+    },
+    {
+      "codigo": 47,
+      "moneda": "FJD"
+    },
+    {
+      "codigo": 48,
+      "moneda": "GYD"
+    },
+    {
+      "codigo": 49,
+      "moneda": "JMD"
+    },
+    {
+      "codigo": 50,
+      "moneda": "LRD"
+    },
+    {
+      "codigo": 51,
+      "moneda": "NAD"
+    },
+    {
+      "codigo": 52,
+      "moneda": "NZD"
+    },
+    {
+      "codigo": 53,
+      "moneda": "SRD"
+    },
+    {
+      "codigo": 54,
+      "moneda": "TWD"
+    },
+    {
+      "codigo": 55,
+      "moneda": "VND"
+    },
+    {
+      "codigo": 56,
+      "moneda": "AMD"
+    },
+    {
+      "codigo": 57,
+      "moneda": "CVE"
+    },
+    {
+      "codigo": 58,
+      "moneda": "ANG"
+    },
+    {
+      "codigo": 59,
+      "moneda": "AWG"
+    },
+    {
+      "codigo": 60,
+      "moneda": "HUF"
+    },
+    {
+      "codigo": 61,
+      "moneda": "BIF"
+    },
+    {
+      "codigo": 62,
+      "moneda": "XAF"
+    },
+    {
+      "codigo": 63,
+      "moneda": "XOF"
+    },
+    {
+      "codigo": 64,
+      "moneda": "XPF"
+    },
+    {
+      "codigo": 65,
+      "moneda": "KMF"
+    },
+    {
+      "codigo": 66,
+      "moneda": "CDF"
+    },
+    {
+      "codigo": 67,
+      "moneda": "GNF"
+    },
+    {
+      "codigo": 68,
+      "moneda": "RWF"
+    },
+    {
+      "codigo": 69,
+      "moneda": "CHF"
+    },
+    {
+      "codigo": 70,
+      "moneda": "DJF"
+    },
+    {
+      "codigo": 71,
+      "moneda": "HTG"
+    },
+    {
+      "codigo": 72,
+      "moneda": "UAH"
+    },
+    {
+      "codigo": 73,
+      "moneda": "PYG"
+    },
+    {
+      "codigo": 74,
+      "moneda": "PGK"
+    },
+    {
+      "codigo": 75,
+      "moneda": "LAK"
+    },
+    {
+      "codigo": 76,
+      "moneda": "CZK"
+    },
+    {
+      "codigo": 77,
+      "moneda": "ISK"
+    },
+    {
+      "codigo": 78,
+      "moneda": "HRK"
+    },
+    {
+      "codigo": 79,
+      "moneda": "MWK"
+    },
+    {
+      "codigo": 80,
+      "moneda": "ZMW"
+    },
+    {
+      "codigo": 81,
+      "moneda": "AOA"
+    },
+    {
+      "codigo": 82,
+      "moneda": "MMK"
+    },
+    {
+      "codigo": 83,
+      "moneda": "GEL"
+    },
+    {
+      "codigo": 84,
+      "moneda": "ALL"
+    },
+    {
+      "codigo": 85,
+      "moneda": "HNL"
+    },
+    {
+      "codigo": 86,
+      "moneda": "SLL"
+    },
+    {
+      "codigo": 87,
+      "moneda": "MDL"
+    },
+    {
+      "codigo": 88,
+      "moneda": "RON"
+    },
+    {
+      "codigo": 89,
+      "moneda": "BGN"
+    },
+    {
+      "codigo": 90,
+      "moneda": "SSP"
+    },
+    {
+      "codigo": 91,
+      "moneda": "GIP"
+    },
+    {
+      "codigo": 92,
+      "moneda": "SHP"
+    },
+    {
+      "codigo": 93,
+      "moneda": "EGP"
+    },
+    {
+      "codigo": 94,
+      "moneda": "GBP"
+    },
+    {
+      "codigo": 95,
+      "moneda": "LBP"
+    },
+    {
+      "codigo": 96,
+      "moneda": "FKP"
+    },
+    {
+      "codigo": 97,
+      "moneda": "SYP"
+    },
+    {
+      "codigo": 98,
+      "moneda": "SZL"
+    },
+    {
+      "codigo": 99,
+      "moneda": "TRY"
+    },
+    {
+      "codigo": 100,
+      "moneda": "LTL"
+    },
+    {
+      "codigo": 101,
+      "moneda": "LSL"
+    },
+    {
+      "codigo": 102,
+      "moneda": "AZN"
+    },
+    {
+      "codigo": 103,
+      "moneda": "TMT"
+    },
+    {
+      "codigo": 104,
+      "moneda": "BAM"
+    },
+    {
+      "codigo": 105,
+      "moneda": "MZN"
+    },
+    {
+      "codigo": 106,
+      "moneda": "NGN"
+    },
+    {
+      "codigo": 107,
+      "moneda": "ERN"
+    },
+    {
+      "codigo": 108,
+      "moneda": "BTN"
+    },
+    {
+      "codigo": 109,
+      "moneda": "ILS"
+    },
+    {
+      "codigo": 110,
+      "moneda": "PEN"
+    },
+    {
+      "codigo": 111,
+      "moneda": "MRO"
+    },
+    {
+      "codigo": 112,
+      "moneda": "TOP"
+    },
+    {
+      "codigo": 113,
+      "moneda": "MOP"
+    },
+    {
+      "codigo": 114,
+      "moneda": "ARS"
+    },
+    {
+      "codigo": 115,
+      "moneda": "CLP"
+    },
+    {
+      "codigo": 116,
+      "moneda": "COP"
+    },
+    {
+      "codigo": 117,
+      "moneda": "CUP"
+    },
+    {
+      "codigo": 118,
+      "moneda": "CUC"
+    },
+    {
+      "codigo": 119,
+      "moneda": "DOP"
+    },
+    {
+      "codigo": 120,
+      "moneda": "PHP"
+    },
+    {
+      "codigo": 121,
+      "moneda": "MXN"
+    },
+    {
+      "codigo": 122,
+      "moneda": "UYU"
+    },
+    {
+      "codigo": 123,
+      "moneda": "BWP"
+    },
+    {
+      "codigo": 124,
+      "moneda": "GTQ"
+    },
+    {
+      "codigo": 125,
+      "moneda": "ZAR"
+    },
+    {
+      "codigo": 126,
+      "moneda": "BRL"
+    },
+    {
+      "codigo": 127,
+      "moneda": "IRR"
+    },
+    {
+      "codigo": 128,
+      "moneda": "OMR"
+    },
+    {
+      "codigo": 129,
+      "moneda": "QAR"
+    },
+    {
+      "codigo": 130,
+      "moneda": "YER"
+    },
+    {
+      "codigo": 131,
+      "moneda": "KHR"
+    },
+    {
+      "codigo": 132,
+      "moneda": "MYR"
+    },
+    {
+      "codigo": 133,
+      "moneda": "SAR"
+    },
+    {
+      "codigo": 134,
+      "moneda": "BYR"
+    },
+    {
+      "codigo": 135,
+      "moneda": "RUB"
+    },
+    {
+      "codigo": 136,
+      "moneda": "MVR"
+    },
+    {
+      "codigo": 137,
+      "moneda": "SCR"
+    },
+    {
+      "codigo": 138,
+      "moneda": "LKR"
+    },
+    {
+      "codigo": 139,
+      "moneda": "INR"
+    },
+    {
+      "codigo": 140,
+      "moneda": "MUR"
+    },
+    {
+      "codigo": 141,
+      "moneda": "NPR"
+    },
+    {
+      "codigo": 142,
+      "moneda": "PKR"
+    },
+    {
+      "codigo": 143,
+      "moneda": "IDR"
+    },
+    {
+      "codigo": 144,
+      "moneda": "KGS"
+    },
+    {
+      "codigo": 145,
+      "moneda": "UZS"
+    },
+    {
+      "codigo": 146,
+      "moneda": "TJS"
+    },
+    {
+      "codigo": 147,
+      "moneda": "BDT"
+    },
+    {
+      "codigo": 148,
+      "moneda": "WST"
+    },
+    {
+      "codigo": 149,
+      "moneda": "KZT"
+    },
+    {
+      "codigo": 150,
+      "moneda": "MNT"
+    },
+    {
+      "codigo": 151,
+      "moneda": "VUV"
+    },
+    {
+      "codigo": 152,
+      "moneda": "KPW"
+    },
+    {
+      "codigo": 153,
+      "moneda": "KRW"
+    },
+    {
+      "codigo": 154,
+      "moneda": "JPY"
+    },
+    {
+      "codigo": 155,
+      "moneda": "CNY"
+    },
+    {
+      "codigo": 156,
+      "moneda": "PLN"
+    },
+    {
+      "codigo": 157,
+      "moneda": "USN"
+    }
+  ]
+}
